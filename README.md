@@ -3,6 +3,9 @@
 **WanderWise** is a smart, sustainable, and social travel planning application designed to revolutionize how trips are organized. Developed as a DBMS Group Project at **IIITDM Jabalpur**, it moves beyond simple itinerary generation to offer eco-friendly options, group personalization, and smart context awareness.
 
 ---
+## Contribution
+
+This project was developed as part of a team of 6 members. I contributed by implementing the user module, including authentication, profile management, REST API development using Express, and MySQL-based storage for user preferences.
 
 ## 📖 Table of Contents
 - [About the Project](#-about-the-project)
@@ -76,13 +79,13 @@ The project utilizes a relational database designed to handle complex relationsh
 
 **Team Members (IIITDM Jabalpur)**
 
-* **Pratik**
-* **Shraddha**
-* **Vinita**
-* **Priya**
+* **Pratik Prajapati**
+* **Shraddha Singh**
+* **Vinita Soni**
+* **Priya Singh**
 
 ---
 
 ### 📝 License
 
-This project is developed for academic purposes at IIITDMJ.
+This project was developed for academic purposes at IIITDMJ.
